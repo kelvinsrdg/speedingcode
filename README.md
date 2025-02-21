@@ -17,5 +17,4 @@ O Speeding Code é uma aplicação WEB Mobile projetada para medir a velocidade 
 ## 🎨 Protótipo (Opcional)
 Confira o protótipo no Figma (link para o protótipo caso disponível).
 
-👥 Colaboradores
-Incode Team 
+
